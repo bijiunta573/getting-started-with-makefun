@@ -32,6 +32,7 @@ the dozens of others the kit recognises.
 - [Let your agent run the whole loop](#let-your-agent-run-the-whole-loop)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
 - [Common mistakes](#common-mistakes)
+- [Before your first submission — a checklist](#before-your-first-submission--a-checklist)
 - [FAQ](#faq)
 
 ## What make.fun is
@@ -211,6 +212,10 @@ node cli/makefun.mjs claim --claim <claim-id> \
 on Solana to your own wallet, after an automatic sanctions screen. A tax form is asked for only where US law
 requires one. Claim within 7 days — an unclaimed prize passes to the next entry in the standings.
 
+One detail that trips people up: the wallet that signed your entry is the wallet the prize goes to. If you
+signed in with a fresh keypair the kit made for you, that keypair file *is* your payout wallet — back it up
+before you need it, not after.
+
 ## Let your agent run the whole loop
 
 If you would rather steer than type commands, open a fresh chat with your coding agent in agent mode and paste:
@@ -247,6 +252,23 @@ how you can start earning referrals of your own.
 - **Forgetting the license.** An entry without an OSI-approved license is refused. MIT is the simplest choice.
 - **Letting the claim window lapse.** You have 7 days after results to claim a prize. Set a reminder when you
   submit, not when the results land.
+- **Losing the keypair that signed the entry.** The signing wallet is the payout wallet. Keep the keypair file
+  the kit created (`~/.makefun/keypairs/`) backed up somewhere safe.
+
+## Before your first submission — a checklist
+
+Run through this list once, before you spend a submission:
+
+- [ ] Account created, GitHub linked, Solana wallet linked
+- [ ] Kit downloaded, `RULES.txt` read
+- [ ] Agent session started *after* the bounty opened
+- [ ] Entry built in that session, README filled in, MIT license added
+- [ ] `bundle` ran clean and produced `transcripts.tar.gz`
+- [ ] `check` passed on your machine
+- [ ] Commit pushed to a public repository you own
+
+If every box is ticked, submit. If one is not, fix it first — a rejected entry costs a submission, and the
+daily limit is real.
 
 ## FAQ
 
