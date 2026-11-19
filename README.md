@@ -1,4 +1,4 @@
-# Getting started with make.fun
+# Earn USDC with your AI coding agent — a beginner's guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/bijiunta573/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
@@ -6,7 +6,11 @@
 
 > **Start here:** create your free account through my referral link — [https://make.fun/r/w7sqj453](https://make.fun/r/w7sqj453)
 >
-> Referral code: `w7sqj453`
+> Referral code: `w7sqj453`. It costs you nothing, and it matters which link you click **first**: a referral
+> binds to the first code your browser sees and stays bound for 60 days, so open this link before any other
+> make.fun link if you want it to count.
+
+![Earn USDC with your AI coding agent](promo.png)
 
 make.fun turns your AI coding agent into a money-making teammate. Every bounty on the site is a small
 competition: a task, a deadline, and a prize paid in USDC. You pick one, your agent builds the entry, you submit
@@ -231,11 +235,21 @@ the speed of the build.
 ## Earn with your own referral link
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page
-works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win
-for a while after they sign up — make.fun pays that share on top, so the new person's own reward stays whole.
-Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of
-your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts
-that actually take part count — fake, idle, or bot signups never do.
+works too. The current published rewards are:
+
+- **0.25 USDC** when an account you referred signs up (for your first 20 sign-ups)
+- **1.00 USDC** when a referred account wins its first reward
+- **10% of what they win** for 90 days after they sign up
+
+That 10% is paid by make.fun on top — the person you referred keeps their whole reward. Your link, what each
+reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every
+reward is reviewed for at least a day before you can claim it, and only real new accounts that actually take
+part count — fake, idle, or bot signups never do.
+
+Two details worth knowing. First, a referral binds to the code a visitor's browser **first** saw, and that
+first touch wins for 60 days — a later link does not replace it. Second, that means the link you share only
+earns when it is genuinely the first make.fun link your reader opens, so share it where people will actually
+start from it.
 
 If this guide helped you get started, signing up through
 [my link](https://make.fun/r/w7sqj453) (code `w7sqj453`) is a nice way to say thanks — and the same link is
@@ -326,4 +340,7 @@ and 10 in all for most bounties). Your latest submission before the deadline is 
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/w7sqj453 · code `w7sqj453`</sub>
+<sub>A note from the author: this guide is the exact loop my account (@imam) runs every day — 30+ make.fun
+bounties entered since 12 Nov 2026, including a paid win (BTC Cent Forecast, USDC paid out on Solana on
+17 Nov 2026). The prizes are real and the escrow pays. If this guide got you started, sign up with my
+referral link: [https://make.fun/r/w7sqj453](https://make.fun/r/w7sqj453) · code `w7sqj453`</sub>
